@@ -3,7 +3,7 @@
  * Plugin Name: Quick Uploader
  * Plugin URI: http://themencode.com/quick-file-uploader-wp-plugin/
  * Description: Simplify the file upload process of your WordPress Site. Simple CLick, Upload & get the link to media file instantly with this plugin.
- * Version: 1.1
+ * Version: 1.2
  * Author: ThemeNcode
  * Author URI: http://themencode.com
 */

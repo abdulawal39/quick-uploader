@@ -4,7 +4,7 @@ Donate link: https://paypal.me/abdulawal39
 Tags: quick uploader, get link of uploaded file, Easy Upload, Simplify Upload, Media Link
 Requires at least: 3.0
 Tested up to: 5.7.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,7 +62,7 @@ No questions yet
 
 == Changelog ==
 
-= 1.1 =
+= 1.2 =
 * Misc. Improvements
 
 = 1.0 =
